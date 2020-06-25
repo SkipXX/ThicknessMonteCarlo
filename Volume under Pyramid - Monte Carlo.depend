@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1593036236 source:c:\users\skipx\desktop\qft for mbs\ue3\volume under pyramid - monte carlo\main.cpp
+	<iostream>
+	<vector>
+	<time.h>
+	<random>
+
+1593036831 source:d:\c++ projects\projects\codeblocks\volume under pyramid - monte carlo\main.cpp
+	<iostream>
+	<vector>
+	<time.h>
+	<limits>
+	<random>
+
